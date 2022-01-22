@@ -6,6 +6,7 @@ beforeEach(function(){
 it('',function(){
 cy.get(research.sleep).click()
 })
+// life is good boss
 
 
 })
